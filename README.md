@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tushark203
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning c and java
+- 🌱 completed c ,pursuing java,css,html
 - 📫 How to reach me : tushar200392@gmail.com
 
 <!---
